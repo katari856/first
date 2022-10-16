@@ -3,4 +3,5 @@ test file 2
 test file 3
 This is fourth line in the file	
 This is fifth line
+This is sixth line
 
