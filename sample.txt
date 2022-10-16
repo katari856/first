@@ -1,2 +1,2 @@
 This is sample file
-
+This is another user's file
